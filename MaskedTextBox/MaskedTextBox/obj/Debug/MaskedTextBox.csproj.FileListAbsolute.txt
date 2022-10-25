@@ -1,0 +1,11 @@
+C:\Users\antho\source\repos\MaskedTextBox\MaskedTextBox\bin\Debug\MaskedTextBox.exe.config
+C:\Users\antho\source\repos\MaskedTextBox\MaskedTextBox\bin\Debug\MaskedTextBox.exe
+C:\Users\antho\source\repos\MaskedTextBox\MaskedTextBox\bin\Debug\MaskedTextBox.pdb
+C:\Users\antho\source\repos\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.csproj.AssemblyReference.cache
+C:\Users\antho\source\repos\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\antho\source\repos\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.Form1.resources
+C:\Users\antho\source\repos\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.Properties.Resources.resources
+C:\Users\antho\source\repos\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.csproj.GenerateResource.cache
+C:\Users\antho\source\repos\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.exe
+C:\Users\antho\source\repos\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.pdb

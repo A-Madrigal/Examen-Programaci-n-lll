@@ -1,0 +1,11 @@
+C:\Users\antho\source\repos\TreeView\TreeView\bin\Debug\TreeView.exe.config
+C:\Users\antho\source\repos\TreeView\TreeView\bin\Debug\TreeView.exe
+C:\Users\antho\source\repos\TreeView\TreeView\bin\Debug\TreeView.pdb
+C:\Users\antho\source\repos\TreeView\TreeView\obj\Debug\TreeView.csproj.AssemblyReference.cache
+C:\Users\antho\source\repos\TreeView\TreeView\obj\Debug\TreeView.csproj.SuggestedBindingRedirects.cache
+C:\Users\antho\source\repos\TreeView\TreeView\obj\Debug\TreeView.Form1.resources
+C:\Users\antho\source\repos\TreeView\TreeView\obj\Debug\TreeView.Properties.Resources.resources
+C:\Users\antho\source\repos\TreeView\TreeView\obj\Debug\TreeView.csproj.GenerateResource.cache
+C:\Users\antho\source\repos\TreeView\TreeView\obj\Debug\TreeView.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\TreeView\TreeView\obj\Debug\TreeView.exe
+C:\Users\antho\source\repos\TreeView\TreeView\obj\Debug\TreeView.pdb

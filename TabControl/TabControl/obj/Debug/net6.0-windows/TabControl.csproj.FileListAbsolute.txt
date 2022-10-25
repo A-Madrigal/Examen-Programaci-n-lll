@@ -1,0 +1,17 @@
+C:\Users\antho\source\repos\TabControl\TabControl\bin\Debug\net6.0-windows\TabControl.exe
+C:\Users\antho\source\repos\TabControl\TabControl\bin\Debug\net6.0-windows\TabControl.deps.json
+C:\Users\antho\source\repos\TabControl\TabControl\bin\Debug\net6.0-windows\TabControl.runtimeconfig.json
+C:\Users\antho\source\repos\TabControl\TabControl\bin\Debug\net6.0-windows\TabControl.dll
+C:\Users\antho\source\repos\TabControl\TabControl\bin\Debug\net6.0-windows\TabControl.pdb
+C:\Users\antho\source\repos\TabControl\TabControl\obj\Debug\net6.0-windows\TabControl.csproj.AssemblyReference.cache
+C:\Users\antho\source\repos\TabControl\TabControl\obj\Debug\net6.0-windows\TabControl.Form1.resources
+C:\Users\antho\source\repos\TabControl\TabControl\obj\Debug\net6.0-windows\TabControl.csproj.GenerateResource.cache
+C:\Users\antho\source\repos\TabControl\TabControl\obj\Debug\net6.0-windows\TabControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\source\repos\TabControl\TabControl\obj\Debug\net6.0-windows\TabControl.AssemblyInfoInputs.cache
+C:\Users\antho\source\repos\TabControl\TabControl\obj\Debug\net6.0-windows\TabControl.AssemblyInfo.cs
+C:\Users\antho\source\repos\TabControl\TabControl\obj\Debug\net6.0-windows\TabControl.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\TabControl\TabControl\obj\Debug\net6.0-windows\TabControl.dll
+C:\Users\antho\source\repos\TabControl\TabControl\obj\Debug\net6.0-windows\refint\TabControl.dll
+C:\Users\antho\source\repos\TabControl\TabControl\obj\Debug\net6.0-windows\TabControl.pdb
+C:\Users\antho\source\repos\TabControl\TabControl\obj\Debug\net6.0-windows\TabControl.genruntimeconfig.cache
+C:\Users\antho\source\repos\TabControl\TabControl\obj\Debug\net6.0-windows\ref\TabControl.dll

@@ -1,0 +1,11 @@
+C:\Users\antho\source\repos\StatusStrip\StatusStrip\bin\Debug\StatusStrip.exe.config
+C:\Users\antho\source\repos\StatusStrip\StatusStrip\bin\Debug\StatusStrip.exe
+C:\Users\antho\source\repos\StatusStrip\StatusStrip\bin\Debug\StatusStrip.pdb
+C:\Users\antho\source\repos\StatusStrip\StatusStrip\obj\Debug\StatusStrip.csproj.AssemblyReference.cache
+C:\Users\antho\source\repos\StatusStrip\StatusStrip\obj\Debug\StatusStrip.csproj.SuggestedBindingRedirects.cache
+C:\Users\antho\source\repos\StatusStrip\StatusStrip\obj\Debug\StatusStrip.Form1.resources
+C:\Users\antho\source\repos\StatusStrip\StatusStrip\obj\Debug\StatusStrip.Properties.Resources.resources
+C:\Users\antho\source\repos\StatusStrip\StatusStrip\obj\Debug\StatusStrip.csproj.GenerateResource.cache
+C:\Users\antho\source\repos\StatusStrip\StatusStrip\obj\Debug\StatusStrip.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\StatusStrip\StatusStrip\obj\Debug\StatusStrip.exe
+C:\Users\antho\source\repos\StatusStrip\StatusStrip\obj\Debug\StatusStrip.pdb
